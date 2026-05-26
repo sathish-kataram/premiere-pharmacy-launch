@@ -5,7 +5,7 @@
 @custom-variant dark (&:is(.dark *));
 
 /* Fonts: Montserrat (headings), Inter (body), Poppins (buttons) */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700;800;900&family=Poppins:wght@500;600;700&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700;800;900&family=Poppins:wght@500;600;700&display=swap"); */
 
 /*
  * Design system definition.
